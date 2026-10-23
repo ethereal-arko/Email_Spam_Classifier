@@ -97,3 +97,15 @@ The balanced model improved spam recall from **73.44% to 89.84%**, detecting mor
 ## Conclusion
 
 This project demonstrates a machine learning workflow for text classification, including data exploration, preprocessing, model comparison, and error analysis. It provides a foundation for further study in natural language processing and machine learning.
+
+## Learning Resources & Acknowledgements
+
+This project was developed as a hands-on machine learning learning project.
+
+- **YouTube Tutorial:** Used as a learning resource to understand the project workflow and related machine learning concepts.
+- **ChatGPT (OpenAI):** Used for conceptual explanations, code assistance, debugging support, and understanding model evaluation.
+- **My Work:** I worked through the notebook, executed the code, examined the evaluation results, and explored the model's classification errors to better understand its strengths and limitations.
+
+The project helped me gain practical experience with text preprocessing, TF-IDF feature extraction, Logistic Regression, class imbalance, and model evaluation.
+
+*Note: The project is based on learning resources and AI-assisted guidance. The original tutorial and dataset sources should be credited where applicable.*
